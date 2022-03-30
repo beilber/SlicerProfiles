@@ -1,0 +1,7 @@
+cache
+snapshots
+vendor
+physical_printer
+
+PrusaSlicer.ini
+PrusaSlicerGcodeViewer.ini
