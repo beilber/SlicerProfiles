@@ -5,3 +5,5 @@ physical_printer
 
 PrusaSlicer.ini
 PrusaSlicerGcodeViewer.ini
+SuperSlicer.ini.bak
+ui_layout
